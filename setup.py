@@ -26,7 +26,7 @@ PACKAGE_DIR = {'roguehostapd': 'roguehostapd'}
 PACKAGE_DATA = {'roguehostapd': ['config/hostapd.conf', 'config/config.ini']}
 VERSION = '1.1.2'
 DESCRIPTION = 'Hostapd wrapper for hostapd'
-URL = 'https://github.com/wifiphisher/roguehostapd'
+URL = 'https://github.com/0x01d/roguehostapd'
 AUTHOR = 'Anakin'
 
 try:
